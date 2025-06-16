@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🎓 AI & ML undergrad @ CBIT | 💻 Full-Stack & ML Developer  
-🎯 Turning ideas into code, one project at a time.
 🔭 Currently building: "Left over food donation platform".
+🎯 Turning ideas into code, one project at a time.
+
 ### 🔧 Tech Stack
 - Languages: Python, Java
 - Web: HTML, CSS, JavaScript, ReactJS
