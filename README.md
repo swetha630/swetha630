@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 🎓 AI & ML undergrad @ CBIT | 💻 Full-Stack & ML Developer  
-🔭 Currently building: "Left over food donation platform".
-🎯 Turning ideas into code, one project at a time.
+🎯 Turning ideas into code, one project at a time  
+🔭 Currently building: "Left over food donation platform"
 
 ### 🔧 Tech Stack
 - Languages: Python, Java
