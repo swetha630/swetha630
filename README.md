@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 AI & ML undergrad passionate about building full-stack web apps and intelligent ML models.  
+
+🎓 AI & ML undergrad @ CBIT | 💻 Full-Stack & ML Developer  
 🎯 Turning ideas into code, one project at a time.
-🔭 I’m currently working on "Left over food donation platform"
+🔭 Currently building: "Left over food donation platform".
 ### 🔧 Tech Stack
 - Languages: Python, Java
 - Web: HTML, CSS, JavaScript, ReactJS
