@@ -15,15 +15,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 AI & ML undergrad @ CBIT | 💻 Full-Stack & ML Developer  
-🎯 Turning ideas into code  
+🎓 **AI & ML Undergrad @ CBIT** | 💻 **ML& Full-Stack Developer**  
+🚀 Passionate about building impactful software & intelligent solutions
 
+---
 
-### 🔧 Tech Stack
-- Languages: Python, Java
-- Web: HTML, CSS, JavaScript, ReactJS
-- Database: MySQL
-- Tools: VS Code, Jupyter, Google Colab
-- Concepts: DSA, OOP, DBMS, ML, OS
+## 💡 About Me
+I’m a **goal-oriented and motivated** engineering student specializing in **Artificial Intelligence and Machine Learning**.  
+I love **turning ideas into scalable code**, building **full-stack applications**, and exploring **data-driven AI/ML solutions**.  
+Currently seeking opportunities to **innovate, learn, and grow** in software engineering or AI/ML roles.
+
+---
+
+## 🔧 Tech Stack
+**Languages:** Python, Java, MySQL  
+**Frontend:** HTML, CSS, JavaScript, React.js  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Tools/Platforms:** Git, GitHub, Vercel, Jupyter, VS Code  
+**Core Concepts:** DSA, OOP, DBMS, Machine Learning, Operating Systems  
+
+---
+
+## 🚀 Projects
+- **[ChronoTasker – Productivity Web App](https://github.com/swetha630/Chrono-Tasker)**  
+  React.js | JavaScript | LocalStorage  
+  🕒 Built a responsive productivity app with a to-do list, timer, and real-time clock.  
+  📌 Used React Hooks for state management & designed a mobile-first UI.
+
+- **[Air Quality Index Monitoring App](https://github.com/swetha630/Air-Quality-Index-Calculation)**  
+  Python | Streamlit | Pandas  
+  🌱 Computed AQI using CPCB guidelines with user inputs of pollutants.  
+  📅 Integrated Google Calendar API for environmental reminders.
+
+---
+
+## 📜 Certifications
+- **Fine-tuning Large Language Models** – DeepLearning.AI  
+- **Prompt Engineering for Everyone** – IBM Skills Network  
+- **Full Stack Web Development** – Udemy  
+- **Programming in Java** – NPTEL
+- **Data Structures Using Python** – NPTEL  
+
+---
 
 Thanks for visiting! 🌟
