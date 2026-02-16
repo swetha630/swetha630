@@ -28,12 +28,12 @@ Currently seeking opportunities to **innovate, learn, and grow** in software eng
 ---
 
 ## 🔧 Tech Stack
-**Languages:** Python, Java, MySQL  
+**Languages:** Python,SQL  
 **Frontend:** HTML, CSS, JavaScript, React.js  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
 **Tools/Platforms:** Git, GitHub, Vercel, Jupyter, VS Code  
-**Core Concepts:** DSA, OOP, DBMS, Machine Learning, Operating Systems  
+**Core Concepts:** DSA, OOP, DBMS, Machine Learning, Operating Systems,Computer Networks
 
 ---
 
