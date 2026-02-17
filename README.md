@@ -38,15 +38,17 @@ Currently seeking opportunities to **innovate, learn, and grow** in software eng
 ---
 
 ## 🚀 Projects
-- **[ChronoTasker – Productivity Web App](https://github.com/swetha630/Chrono-Tasker)**  
-  React.js | JavaScript | LocalStorage  
-  🕒 Built a responsive productivity app with a to-do list, timer, and real-time clock.  
-  📌 Used React Hooks for state management & designed a mobile-first UI.
+- **[AI Resume Analyzer – Skill Gap Detection System ](https://github.com/swetha630/Ai_Resume_Analyzer)**  
+  Python | Flask | React | NLP | TF-IDF | Cosine Similarity
+🤖 Built an AI-powered resume screening platform to match resumes with job descriptions.
+📊 Used NLP techniques to extract skills and compute similarity scores for better candidate evaluation.
+🎯 Provided skill gap analysis to help users improve their resumes strategically.
 
-- **[Air Quality Index Monitoring App](https://github.com/swetha630/Air-Quality-Index-Calculation)**  
-  Python | Streamlit | Pandas  
-  🌱 Computed AQI using CPCB guidelines with user inputs of pollutants.  
-  📅 Integrated Google Calendar API for environmental reminders.
+- **[B.Tech Student Management System](https://github.com/swetha630/student-management-system)**  
+  MERN Stack | MongoDB | Express | React | Node.js
+🎓 Developed a full-stack web application to manage student records, attendance, and academic details.
+🔐 Implemented secure authentication and role-based access control for admin and student users.
+📁 Designed RESTful APIs with efficient database integration for CRUD operations.
 
 ---
 
