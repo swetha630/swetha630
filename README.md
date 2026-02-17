@@ -40,14 +40,20 @@ Currently seeking opportunities to **innovate, learn, and grow** in software eng
 ## 🚀 Projects
 - **[AI Resume Analyzer – Skill Gap Detection System ](https://github.com/swetha630/Ai_Resume_Analyzer)**  
   Python | Flask | React | NLP | TF-IDF | Cosine Similarity
+  
 🤖 Built an AI-powered resume screening platform to match resumes with job descriptions.
+
 📊 Used NLP techniques to extract skills and compute similarity scores for better candidate evaluation.
+
 🎯 Provided skill gap analysis to help users improve their resumes strategically.
 
 - **[B.Tech Student Management System](https://github.com/swetha630/student-management-system)**  
   MERN Stack | MongoDB | Express | React | Node.js
+  
 🎓 Developed a full-stack web application to manage student records, attendance, and academic details.
+
 🔐 Implemented secure authentication and role-based access control for admin and student users.
+
 📁 Designed RESTful APIs with efficient database integration for CRUD operations.
 
 ---
