@@ -5,11 +5,6 @@
   Passionate about building intelligent systems and scalable web applications that solve real-world problems.
 </p>
 
-<p align="center">
-  <a href="https://github.com/swetha630">
-    <img src="https://komarev.com/ghpvc/?username=swetha630&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
 
 ---
 
@@ -110,27 +105,6 @@
 
 ---
 
-
-
-## 🏆 Certifications
-
-- Fine-Tuning Large Language Models – DeepLearning.AI
-- Prompt Engineering for Everyone – IBM Skills Network
-- Full Stack Web Development – Udemy
-- Programming in Java – NPTEL
-- Data Structures Using Python – NPTEL
-
----
-
-## 📚 Problem Solving
-
-💻 Consistently practicing Data Structures and Algorithms.
-
-- Solving coding challenges regularly.
-- Building strong problem-solving skills.
-- Applying algorithmic thinking in projects.
-
----
 
 ## 📫 Connect With Me
 
