@@ -1,70 +1,144 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Swetha Mandapuri</h1>
+<h3 align="center">AI & Machine Learning | Full-Stack Development | Data Science</h3>
 
-<!--
-**swetha630/swetha630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about building intelligent systems and scalable web applications that solve real-world problems.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🎓 **AI & ML Undergrad @ CBIT** | 💻 **ML& Full-Stack Developer**  
-🚀 Passionate about building impactful software & intelligent solutions
+<p align="center">
+  <a href="https://github.com/swetha630">
+    <img src="https://komarev.com/ghpvc/?username=swetha630&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 💡 About Me
-I’m a **goal-oriented and motivated** engineering student specializing in **Artificial Intelligence and Machine Learning**.  
-I love **turning ideas into scalable code**, building **full-stack applications**, and exploring **data-driven AI/ML solutions**.  
-Currently seeking opportunities to **innovate, learn, and grow** in software engineering or AI/ML roles.
+## 👩‍💻 About Me
+
+🎓 Final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+
+💡 I enjoy transforming ideas into impactful software using **Machine Learning and Full-Stack Development**
+
+🧠 Strong foundation in **DSA, OOP, DBMS, Operating Systems, and Computer Networks**
+
+🌱 Currently exploring:
+- Generative AI
+- Large Language Models (LLMs)
+- Advanced Machine Learning
+- System Design
+
+🎯 Seeking opportunities in:
+- Software Development
+- Machine Learning Engineering
+- AI Engineering
 
 ---
 
-## 🔧 Tech Stack
-**Languages:** Python,SQL  
-**Frontend:** HTML, CSS, JavaScript, React.js  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
-**Tools/Platforms:** Git, GitHub, Vercel, Jupyter, VS Code  
-**Core Concepts:** DSA, OOP, DBMS, Machine Learning, Operating Systems,Computer Networks
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- SQL
+
+### Frontend
+- HTML
+- CSS
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Databases
+- MongoDB
+- MySQL
+
+### AI/ML
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- NLP
+- XGBoost
+-Deep Learning
+
+### Tools
+- Git
+- GitHub
+- Vercel
+- VS Code
+- Jupyter Notebook
 
 ---
 
-## 🚀 Projects
-- **[AI Resume Analyzer – Skill Gap Detection System ](https://github.com/swetha630/Ai_Resume_Analyzer)**  
-  Python | Flask | React | NLP | TF-IDF | Cosine Similarity
-  
-🤖 Built an AI-powered resume screening platform to match resumes with job descriptions.
+## 🚀 Featured Projects
 
-📊 Used NLP techniques to extract skills and compute similarity scores for better candidate evaluation.
+### 🔍 Healthcare Fraud Detection System
+**Python | XGBoost | Machine Learning**
 
-🎯 Provided skill gap analysis to help users improve their resumes strategically.
-
-- **[B.Tech Student Management System](https://github.com/swetha630/student-management-system)**  
-  MERN Stack | MongoDB | Express | React | Node.js
-  
-🎓 Developed a full-stack web application to manage student records, attendance, and academic details.
-
-🔐 Implemented secure authentication and role-based access control for admin and student users.
-
-📁 Designed RESTful APIs with efficient database integration for CRUD operations.
+- Developed a fraud prediction system using healthcare claim data.
+- Addressed class imbalance to improve fraud recall.
+- Built an interactive prediction interface for real-time inference.
 
 ---
 
-## 📜 Certifications
-- **Fine-tuning Large Language Models** – DeepLearning.AI  
-- **Prompt Engineering for Everyone** – IBM Skills Network  
-- **Full Stack Web Development** – Udemy  
-- **Programming in Java** – NPTEL
-- **Data Structures Using Python** – NPTEL  
+### 🤖 AI Resume Intelligence System
+**React | Flask | NLP | TF-IDF**
+
+- ATS-based resume analyzer.
+- Skill-gap prediction and job matching.
+- Resume recommendations using NLP techniques.
 
 ---
 
-Thanks for visiting! 🌟
+### 📚 Smart Stationary Management System
+**MERN Stack**
+
+- Automated inventory tracking and shop status management.
+- Role-based admin controls.
+- Real-time item availability updates.
+
+---
+
+### 🎤 AI Interview Coach
+**JavaScript | AI**
+
+- Simulates interview scenarios.
+- Provides intelligent feedback.
+- Helps improve confidence and communication.
+
+---
+
+
+
+## 🏆 Certifications
+
+- Fine-Tuning Large Language Models – DeepLearning.AI
+- Prompt Engineering for Everyone – IBM Skills Network
+- Full Stack Web Development – Udemy
+- Programming in Java – NPTEL
+- Data Structures Using Python – NPTEL
+
+---
+
+## 📚 Problem Solving
+
+💻 Consistently practicing Data Structures and Algorithms.
+
+- Solving coding challenges regularly.
+- Building strong problem-solving skills.
+- Applying algorithmic thinking in projects.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/swetha630
+- LinkedIn: https://www.linkedin.com/in/swetha-mandapuri-3346042a3
+
+---
+
+### ⭐ "Building technology that learns, scales, and creates impact."
+
+Thanks for visiting my profile!
