@@ -10,11 +10,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 Final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+## 👩‍💻 About Me
 
-💡 I enjoy transforming ideas into impactful software using **Machine Learning and Full-Stack Development**
+I'm an AI & ML undergraduate who enjoys building software that moves beyond prototypes into usable products.
 
-🧠 Strong foundation in **DSA, OOP, DBMS, Operating Systems, and Computer Networks**
+Over the past few years, I've worked on projects ranging from healthcare fraud detection and AI-powered resume analysis to full-stack management systems and productivity applications. I enjoy the entire process—understanding a problem, designing a solution, building the system, and continuously improving it through experimentation.
+
+I believe the best projects sit at the intersection of intelligent algorithms and practical user experience, and that's the kind of engineer I'm striving to become.
 
 🌱 Currently exploring:
 - Generative AI
