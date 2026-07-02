@@ -1,119 +1,227 @@
-<h1 align="center">Hi 👋, I'm Swetha Mandapuri</h1>
-<h3 align="center">AI & Machine Learning | Full-Stack Development | Data Science</h3>
-
+<!-- Banner -->
 <p align="center">
-  Passionate about building intelligent systems and scalable web applications that solve real-world problems.
+  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
 </p>
 
+<h1 align="center">
+Hi 👋 I'm Swetha Mandapuri
+</h1>
+
+<h3 align="center">
+AI Engineer • Machine Learning Enthusiast • Full Stack Developer
+</h3>
+
+<p align="center">
+Building intelligent systems, scalable web applications, and AI solutions that solve real-world problems.
+</p>
 
 ---
 
+## 🚀 About Me
 
-## 👩‍💻 About Me
+🎓 Final Year B.E. Artificial Intelligence & Machine Learning Student at **CBIT Hyderabad**
 
-I'm an AI & ML undergraduate who enjoys building software that moves beyond prototypes into usable products.
+💡 Passionate about building AI-powered products that combine intelligent algorithms with intuitive user experiences.
 
-Over the past few years, I've worked on projects ranging from healthcare fraud detection and AI-powered resume analysis to full-stack management systems and productivity applications. I enjoy the entire process—understanding a problem, designing a solution, building the system, and continuously improving it through experimentation.
+I enjoy transforming ideas into real-world applications—from designing machine learning models to developing scalable full-stack applications.
 
-I believe the best projects sit at the intersection of intelligent algorithms and practical user experience, and that's the kind of engineer I'm striving to become.
-
-🌱 Currently exploring:
-- Generative AI
-- Large Language Models (LLMs)
-- Advanced Machine Learning
-- System Design
-
-🎯 Seeking opportunities in:
-- Software Development
-- Machine Learning Engineering
-- AI Engineering
+My interests span across **Artificial Intelligence, Machine Learning, Full Stack Development, and Data Science**, with a strong focus on building impactful software.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 Currently Learning
 
-### Languages
-- Python
-- JavaScript
-- SQL
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- ⚡ Advanced Machine Learning
+- 🏗️ System Design
+- ☁️ Cloud Technologies
 
-### Frontend
-- HTML
-- CSS
-- React.js
+---
 
-### Backend
-- Node.js
-- Express.js
+## 💻 Tech Stack
 
-### Databases
-- MongoDB
-- MySQL
+### 👨‍💻 Languages
 
-### AI/ML
-- Scikit-learn
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### 🤖 AI / ML
+
+- Scikit-Learn
 - Pandas
 - NumPy
 - Matplotlib
-- NLP
 - XGBoost
--Deep Learning
+- Deep Learning
+- NLP
 
-### Tools
-- Git
-- GitHub
-- Vercel
-- VS Code
-- Jupyter Notebook
+### 🛠 Tools
 
----
-
-## 🚀 Featured Projects
-
-### 🔍 Healthcare Fraud Detection System
-**Python | XGBoost | Machine Learning**
-
-- Developed a fraud prediction system using healthcare claim data.
-- Addressed class imbalance to improve fraud recall.
-- Built an interactive prediction interface for real-time inference.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+</p>
 
 ---
 
-### 🤖 AI Resume Intelligence System
-**React | Flask | NLP | TF-IDF**
+# 🚀 Featured Projects
 
-- ATS-based resume analyzer.
-- Skill-gap prediction and job matching.
-- Resume recommendations using NLP techniques.
+## 🤖 AI Interview Coach
 
----
+> Personalized AI-powered interview platform using Gemini API.
 
-### 📚 Smart Stationary Management System
-**MERN Stack**
+✨ Features
 
-- Automated inventory tracking and shop status management.
-- Role-based admin controls.
-- Real-time item availability updates.
+- Resume-aware interviews
+- Adaptive questioning
+- AI-generated feedback
+- Follow-up questions
+- Personalized interview experience
 
----
+**Tech Stack**
 
-### 🎤 AI Interview Coach
-**JavaScript | AI**
-
-- Simulates interview scenarios.
-- Provides intelligent feedback.
-- Helps improve confidence and communication.
+React • Node.js • Express • Gemini API
 
 ---
 
+## 🏥 Healthcare Fraud Detection
+
+Machine Learning system to identify fraudulent healthcare insurance claims.
+
+✔ Random Forest
+
+✔ XGBoost
+
+✔ SHAP Explainability
+
+✔ Flask REST API
+
+✔ Real-time Prediction
+
+---
+
+## 📄 AI Resume Intelligence System
+
+Smart ATS Resume Analyzer with NLP.
+
+- ATS Score
+- Resume Analysis
+- Skill Gap Prediction
+- Job Matching
+
+---
+
+## 🏢 Smart Stationery Management System
+
+MERN Stack application for managing stationery inventory.
+
+Features
+
+- Role-based Authentication
+
+- Inventory Management
+
+- Real-time Availability
+
+- Order Tracking
+
+---
+
+## 🌦 Multi-Horizon Weather Forecasting
+
+Deep Learning models for weather prediction.
+
+Models Used
+
+- LSTM
+
+- GRU
+
+- CNN-LSTM
+
+- CNN-GRU
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swetha630&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=swetha630&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetha630&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Solved **500+ LeetCode Problems**
+
+🎯 Built multiple AI & Full Stack Projects
+
+💻 Passionate about Open Source & Software Engineering
+
+📚 Strong foundation in DSA, DBMS, OS, CN & OOP
+
+---
+
+## 🎯 Career Interests
+
+✔ Software Development Engineer
+
+✔ Machine Learning Engineer
+
+✔ AI Engineer
+
+✔ Full Stack Developer
+
+---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/swetha630
-- LinkedIn: https://www.linkedin.com/in/swetha-mandapuri-3346042a3
+<p>
+
+<a href="https://github.com/swetha630">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/swetha-mandapuri-3346042a3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-### ⭐ "Building technology that learns, scales, and creates impact."
+<p align="center">
 
-Thanks for visiting my profile!
+### ⭐ *"Code with purpose. Build with curiosity. Learn continuously."*
+
+</p>
